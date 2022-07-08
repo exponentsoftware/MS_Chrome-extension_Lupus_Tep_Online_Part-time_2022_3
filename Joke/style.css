@@ -1,0 +1,19 @@
+body{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(248, 245, 90, 0.836);
+    display: flex;
+    justify-content: center;
+    
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px ;
+    font-size: 30px;
+    color: rgb(194, 4, 4);
+   
+    padding : 10px;
+    font-weight: bold;
+
+}
